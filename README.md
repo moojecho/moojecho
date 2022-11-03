@@ -1,7 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Welcome🥳&fontSize=80&fontColor=ffffff&animation=fadeIn)
-### '나'보단 '너'가 먼저인 신입 개발자 조무제라고 합니다.<br/>항상 사용자 입장에서 바라보는 개발자가 되고 싶습니다..!<br/>잘 부탁드려요!👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Welcome🥳&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=MoojeCho%20GitHub%20&descAlignY=65&descAlign=55)
+  ### '나'보단 '너'가 먼저인<br/> 신입 개발자 조무제라고 합니다.<br/>항상 사용자 입장에서 바라보는 개발자가 되고 싶습니다..!<br/>잘 부탁드려요!👋
 
 <br><br><br><br><br><br>
 <h2>⚙️ Front-end Stack ⚙️</h2>
