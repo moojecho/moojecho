@@ -26,8 +26,10 @@
 <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <br><br><br>
 <h3>☁ SNS ☁</h3>
-<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&link=https://wpfh188.tistory.com/&logoColor=white"/>
-<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&link=https://www.instagram.com/cho_moo_je/&logoColor=white"/>
+<a href="https://www.instagram.com/cho_moo_je/">
+<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&link=https://wpfh188.tistory.com/&logoColor=white"/></a>
+<a href="https://www.instagram.com/cho_moo_je/">
+<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&link=https://www.instagram.com/cho_moo_je/&logoColor=white"/></a>
 <br>
 
 <h3>📧 E-mail 📧</h3>
